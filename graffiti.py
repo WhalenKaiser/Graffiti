@@ -4,4 +4,6 @@ print("Michelle Kaiser was here on April 23, 2018.  She initialized this project
 
 print("Cameron Lane was here on 2018-05-23. Hi Michelle!")
 
+print("Doug Hellmann was here on 2018-05-23. Great idea!")
+
 print("change this print statement")
